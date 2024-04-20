@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kashif Shahzad</h1>
-<h3 align="center">FrontEnd Developer || Passionate about Frontend || Committed to Delivering Excellence || Striving for Continuous Growth 💻 from Pakistan</h3>
+<h3 align="center">FrontEnd Developer || Passionate about Frontend || Committed to Deliver Excellence || Striving for Continuous Growth 💻 from Pakistan</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
