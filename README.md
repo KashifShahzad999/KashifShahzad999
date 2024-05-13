@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kashif Shahzad</h1>
-<h3 align="center">FrontEnd Developer || Passionate about Frontend || Committed to Deliver Excellence || Striving for Continuous Growth 💻 from Pakistan</h3>
+<h3 align="center">FrontEnd Developer || Passionate about FrontEnd
+|| Comitted to Deliver Excellence || Striving for Continuous Growth 💻
+With an insatiable curiosity for all things tech, I immerse myself in the ever-evolving world of software development. As a Software Engineering enthusiast, I thrive on turning innovative ideas into tangible realities. Ready to dive into a world of possibilities? Let's explore the limitless horizons of Software Engineering!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
