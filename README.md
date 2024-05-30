@@ -2,7 +2,7 @@
 <h3 align="center">FrontEnd Developer || Passionate about FrontEnd
 || Comitted to Deliver Excellence || Striving for Continuous Growth 💻
 With an insatiable curiosity for all things tech, I immerse myself in the ever-evolving world of software development. As a Software Engineering enthusiast, I thrive on turning innovative ideas into tangible realities. Ready to dive into a world of possibilities? Let's explore the limitless horizons of Software Engineering!</h3>
-<img alt="RajK01 (Rajeev Kumar) · GitHub" id="dimg_5" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAADACAMAAAB/Pny7AAABblBMVEX///9TWl309PQlMThAev6gvf6zyv4eKC339/fh6v1nb3OXruCut82ht+ibr916o/64wM6Sl5ozYsygo6q2xul1jb0AAADc3NzN1+2swvK/wLw2df/1+f8/de5VaI7Q0tOIk6lejvyAk7uImLsoQ3W/0PZcZGg+aMft8v+7yeXl5eNzeIElKyW80f+ysrOvxv+brdOdpbM4P0EzWanmsXqJk6DEyNInOVGCiZFSW2cmSpgtWLRHVWiKrf3S4P5lbnt+nNNDTFCDhn93gJBPhP1BTFhomP85VZRQVUpcaYEYQZRkdJNgfsA/WpBPaJ1ob2kAFyIPJDUUIBufh26NdVzYrYC5kmtsXlElRIZQedlEar9QbrJwhKkpPmJ8aFQ7Tm5pkNIJJ1eeiX11b5D1uXYkXNIbSKeLfoe9mYRf 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
